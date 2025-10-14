@@ -27,7 +27,7 @@ My core expertise is in designing comprehensive, scenario-based learning modules
 
 ### Technical Outreach: The Prompting Playbook
 * I authored and presented the technical briefing, "**The Prompting Playbook: Strategies for Winning with Large Language Models**".
-* This material was delivered as part of the **MATC AT Nights** series, showcasing advanced techniques like Zero-shot, Few-shot, and Chain-of-Thought (CoT) prompting.
+* This material was delivered as part of the **MATC AI Nights** series, showcasing advanced techniques like Zero-shot, Few-shot, and Chain-of-Thought (CoT) prompting.
 
 ---
 
