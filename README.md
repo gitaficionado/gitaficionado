@@ -1,57 +1,62 @@
-# 🎓 The Integration Educator: `gitaficionado`
+# 🎓 The Integration Educator: Leonardo Alvarez (`gitaficionado`)
 ### *Technical Curriculum Developer & Solution Architect in Enterprise Middleware.*
 
 ---
 
-## ✨ My Focus: Bridging Theory and Practice
+## ✨ My Focus: Actionable Learning & Technical Leadership
 
-Welcome to my professional profile. I'm **Leonardo**, a dedicated **Instructional Designer** and **Technical Curriculum Developer** specializing in complex enterprise integration and cloud-native technologies. My strengths lie in articulating technical concepts to diverse audiences and fostering a culture of continuous learning.
+Welcome to my professional profile. I'm **Leonardo Alvarez**, a dedicated **Technical Solution Architect** and **Curriculum Developer** specializing in complex enterprise integration and cloud-native technologies, particularly within the IBM portfolio. My mission is to translate complex technical concepts into **actionable, high-impact learning experiences** that empower clients and business partners.
 
-My recent work has been focused on translating my deep domain knowledge—specifically in **IBM App Connect Enterprise (ACE)**, **IBM MQ**, and **IBM Red Hat OpenShift**—into **actionable, hands-on labs** and courseware for business partners and clients.
+My work over the past year has been focused on **refining the presence and quality of my code and curriculum**. This includes:
 
-Over the past year, I have also been dedicated to **improving my presence and approach as a code writer**. This commitment includes applying my backend expertise to modern web development by building a series of **Django projects** of late, ensuring my development skills remain current and robust.
-
----
-
-## 📚 Core Curriculum Development: Enterprise Integration
-
-I design comprehensive learning experiences that empower clients to achieve a competitive advantage and create market disruptions. My curriculum focuses on real-world scenarios across the IBM integration portfolio.
-
-### 1. IBM App Connect Enterprise (ACE) Development
-
-[cite_start]I create modules, like the two-day "IBM App Connect Enterprise 12 Application Development I" course, that teach experienced specialists and senior-level developers how to construct message flow applications[cite: 236, 240, 254].
-
-**Key Learning Objectives:** Developing, deploying, and testing message flow applications; creating reusable subflows; and developing and testing **REST APIs**.
-**Hands-On Focus:** Exercises include importing and testing message flows using the **Flow Exerciser** [cite: 292, 293][cite_start], creating custom message flow applications, adding flow control, and developing a REST API using the OpenAPI Editor[cite: 318, 319].
-
-### 2. IBM MQ and Cloud-Native Integration
-
-While the provided document focuses heavily on ACE, my work extends to:
-
-* **IBM MQ:** Designing labs for administering and securing enterprise messaging systems.
-* **IBM Red Hat OpenShift:** Developing exercises for containerizing and managing integration assets within the Kubernetes environment, often leveraging OpenShift Operators for deployment.
+* **Instructional Design:** Creating hands-on labs and courseware that drive competitive advantage.
+* **Coding Proficiency:** Applying my expertise in **Python** to build a series of structured and scalable applications, most recently focusing on projects utilizing the **Django** framework.
 
 ---
 
-## 💻 Recent Projects: Python and Django
+## 📚 Core Curriculum & Technical Expertise
 
-In addition to my curriculum work, I am actively engaging in modern development to keep my coding skills sharp.
+My core expertise is in designing comprehensive, scenario-based learning modules for enterprise integration.
 
-* **Focus:** Leveraging my **Python** expertise to build structured and scalable applications using the **Django** framework.
-* [cite_start]**Goal:** To enhance my understanding of contemporary **Technical Leadership** and deliver new, complex solutions effectively[cite: 210, 213].
+### IBM App Connect Enterprise (ACE) Development
+* **Focus:** Designing the curriculum for courses like the two-day "**IBM App Connect Enterprise 12 Application Development I**".
+* **Lab Experience:** Modules cover developing and testing message flow applications, creating reusable subflows, and developing and testing **REST APIs**. Hands-on exercises utilize the **Flow Exerciser** and **Message Flow Debugger**.
 
-## 💡 Professional Experience and Interests
+### IBM MQ & Cloud-Native
+* My curriculum design also extends to administering and securing enterprise messaging systems (**IBM MQ**) and creating labs for containerizing and managing integration assets within a Kubernetes environment (**IBM Red Hat OpenShift**).
 
-Beyond curriculum and coding, I apply my skills as a **Change Agent** and leader in technology.
-
-**Curriculum & Technical Background:** I have **16 years of experience** in teaching and E-learning [cite: 217][cite_start], having taught subjects like **Computational Thinking**, **Java**, **Python**, and **AP Computer Science**.
-**Teamwork & Quality Assurance:** I co-hosted monthly Automation Round Table sessions, curating presentations and managing the agenda, which saved significant development time. I also assisted in a **Learning Management System migration** by evaluating courses, reporting detailed bugs, and testing security modules.
-**Creative Solutions:** I am interested in analyzing new situations to implement solutions and develop new system elements, procedures, or processes to provide better products for all stakeholders.
+### Technical Outreach: The Prompting Playbook
+* I authored and presented the technical briefing, "**The Prompting Playbook: Strategies for Winning with Large Language Models**".
+* This material was delivered as part of the **MATC AT Nights** series, showcasing advanced techniques like Zero-shot, Few-shot, and Chain-of-Thought (CoT) prompting.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Community & Volunteer Leadership
 
-I am interested in influencing organizations when challenges are complex and require considerable diplomacy, and in leading multi-functional teams. Feel free to connect to discuss technical leadership, solution architecture, or curriculum design.
+I am a strong believer in contributing to the tech community and fostering learning through organization and mentorship.
+
+### Mitobyte Organization
+* I have been actively volunteering with **Mitobyte** to support the local tech community.
+* My work involves assisting the leadership team in organizing their **hackathons** and facilitating their regular **monthly meetings**. This experience underscores my interest in **Leadership** and managing multi-functional teams.
+
+### Mentorship & Portfolio
+* My passion for learning led me to use my technical writing skills to provide suggestions to undergraduate students from Stillman College to improve their LinkedIn profiles.
+* My online portfolio, the **`mercury`** project, serves as a hub demonstrating my skills in technical writing, instructional design, and mentorship.
+
+---
+
+## 🏅 Professional Credentials
+
+| Category | Details |
+| :--- | :--- |
+| **Certifications** | **[Please list your specific certifications from your LinkedIn profile here. (e.g., IBM Certified Solution Developer - App Connect Enterprise, Certified Kubernetes Administrator)]** |
+| **Experience** | 16 years in teaching and E-learning, including Computational Thinking, Java, and **Python**. |
+| **Professional Interests** | Interested in roles requiring **Change Agent** skills and applying **Creative Solutions** when challenges are complex and require considerable diplomacy. |
+
+---
+
+## 🚀 Looking Ahead
+
+I am actively looking forward to building my **Technical Leadership** skills in my next role. Feel free to connect to discuss technical leadership, curriculum architecture, or solution design.
 
 **Happy Teaching and Coding!**
