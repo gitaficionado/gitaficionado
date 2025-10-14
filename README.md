@@ -59,4 +59,3 @@ I am a strong believer in contributing to the tech community and fostering learn
 
 I am actively looking forward to building my **Technical Leadership** skills in my next role. Feel free to connect to discuss technical leadership, curriculum architecture, or solution design.
 
-**Happy Teaching and Coding!**
