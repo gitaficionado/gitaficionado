@@ -41,7 +41,7 @@ I am a strong believer in contributing to the tech community and fostering learn
 
 ### Mentorship & Portfolio
 * My passion for learning led me to use my technical writing skills to provide suggestions to undergraduate students from Stillman College to improve their LinkedIn profiles.
-* My online portfolio, the **`mercury`** project, serves as a hub demonstrating my skills in technical writing, instructional design, and mentorship.
+  * My [recent projects site](https://gitaficionado.github.io/mercury/#projects), serves as a hub demonstrating my skills in technical writing, instructional design, and mentorship.
 
 ---
 
@@ -49,7 +49,7 @@ I am a strong believer in contributing to the tech community and fostering learn
 
 | Category | Details |
 | :--- | :--- |
-| **Certifications** | **[Please list your specific certifications from your LinkedIn profile here. (e.g., IBM Certified Solution Developer - App Connect Enterprise, Certified Kubernetes Administrator)]** |
+| **Certifications** | **IBM Certified Developer - App Connect Enterprise v12.0, dbt Fundamentals, IBM Watson Essentials, API Styles Fundamentals, IBM Certfication Exam Developer 2023, and Datadog - Configuration Learning Path. ** |
 | **Experience** | 16 years in teaching and E-learning, including Computational Thinking, Java, and **Python**. |
 | **Professional Interests** | Interested in roles requiring **Change Agent** skills and applying **Creative Solutions** when challenges are complex and require considerable diplomacy. |
 
