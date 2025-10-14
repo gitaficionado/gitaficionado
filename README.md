@@ -1,4 +1,4 @@
-# 🎓 The Integration Educator: Leo (`gitaficionado`)
+# 🎓 The Integration Developer: Leo (`gitaficionado`)
 ### *Technical Curriculum Developer & IT Organizational Consultant with an emaphasis in Enterprise Middleware.*
 
 ---
