@@ -36,7 +36,7 @@ My core expertise is in designing comprehensive, scenario-based learning modules
 I am a strong believer in contributing to the tech community and fostering learning through organization and mentorship.
 
 ### Mitobyte Organization
-* I have been actively volunteering with **Mitobyte** to support the local tech community.
+* I have been actively volunteering with [**Mitobyte**](https://mitobyte.com) to support the local tech community.
 * My work involves assisting the leadership team in organizing their **hackathons** and facilitating their regular **monthly meetings**. This experience underscores my interest in **Leadership** and managing multi-functional teams.
 
 ### Mentorship & Portfolio
