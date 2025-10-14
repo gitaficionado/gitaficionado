@@ -50,7 +50,7 @@ I am a strong believer in contributing to the tech community and fostering learn
 | Category | Details |
 | :--- | :--- |
 | **Certifications** | IBM Certified Developer - App Connect Enterprise v12.0, dbt Fundamentals, IBM Watson Essentials, API Styles Fundamentals, IBM Certfication Exam Developer 2023, and Datadog - Configuration Learning Path. |
-| **Experience** | 16 years in teaching and E-learning, including Computational Thinking, Java, and **Python**. |
+| **Experience** | 10 years in teaching and E-learning, including Computational Thinking, Java, and **Python**. |
 | **Professional Interests** | Interested in roles requiring **Change Agent** skills and applying **Creative Solutions** when challenges are complex and require considerable diplomacy. |
 
 ---
