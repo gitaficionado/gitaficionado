@@ -1,4 +1,4 @@
-# 🎓 The Integration Educator: `gitaficionado`
+# 🎓 The Integration Code Writer: `gitaficionado`
 ### *Technical Curriculum Developer specializing in Enterprise Middleware and Cloud-Native Integration.*
 
 ---
