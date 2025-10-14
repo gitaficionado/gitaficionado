@@ -1,11 +1,11 @@
-# 🎓 The Integration Educator: Leonardo Alvarez (`gitaficionado`)
-### *Technical Curriculum Developer & Solution Architect in Enterprise Middleware.*
+# 🎓 The Integration Educator: Leonardo (`gitaficionado`)
+### *Technical Curriculum Developer & IT Organizational Consultant with an emaphasis in Enterprise Middleware.*
 
 ---
 
 ## ✨ My Focus: Actionable Learning & Technical Leadership
 
-Welcome to my professional profile. I'm **Leonardo Alvarez**, a dedicated **Technical Solution Architect** and **Curriculum Developer** specializing in complex enterprise integration and cloud-native technologies, particularly within the IBM portfolio. My mission is to translate complex technical concepts into **actionable, high-impact learning experiences** that empower clients and business partners.
+Welcome to my github space. I specialize in complex enterprise integration and cloud-native technologies. My mission is to translate complex technical concepts into **actionable, high-impact learning experiences** that empower clients and business partners.
 
 My work over the past year has been focused on **refining the presence and quality of my code and curriculum**. This includes:
 
