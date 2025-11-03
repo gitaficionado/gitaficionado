@@ -14,7 +14,15 @@
 </details>
 ---
 
-
+<details>
+  <summary>Click here to see more details</summary>
+  
+  ### This is a hidden heading
+  
+  This is some content that will be collapsed by default. You can include paragraphs, code blocks, images, or any other Markdown elements here.
+  
+  '''python
+  print("Hello, world!")
 
 
 ## 📚 Core Curriculum & Technical Expertise
