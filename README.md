@@ -9,9 +9,29 @@
   My work over the past year has been focused on **refining the presence and quality of my code and curriculum**. This includes:
 
  * **Instructional Design:** Creating hands-on labs and courseware that drive competitive advantage.
- * **Coding Proficiency:** Applying my expertise in **Python** to build a series of structured and scalable applications, most recently focusing on projects utilizing the **Django** framework. </summary>
-  
+ * **Coding Proficiency:** Applying my expertise in **Python** to build a series of structured and scalable applications, most recently focusing on projects utilizing the **Django** framework.</summary>
 </details>
+
+
+**Explanation:**
+
+*   `<details>`: Defines the collapsible section.
+*   `<summary>Click here to see more details</summary>`: This text ("Click here to see more details") will be visible and act as the expand/collapse button.
+*   The content between `</summary>` and `</details>` will be hidden until the summary is clicked.
+
+**Optional:**
+
+*   **Open by default:** To make the section expanded by default, add the `open` attribute to the `<details>` tag:
+
+    ```markdown
+    <details open>
+      <summary>Click here to collapse</summary>
+      This content will be visible when the page loads.
+    </details>
+
+
+
+
 
 ## 📚 Core Curriculum & Technical Expertise
 
