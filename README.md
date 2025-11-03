@@ -17,13 +17,9 @@ My work over the past year has been focused on **refining the presence and quali
 
 My core expertise is in designing comprehensive, scenario-based learning modules for enterprise integration.
 
-<details>
- 
-<summary> ### IBM App Connect Enterprise (ACE) Development</summary>
+### IBM App Connect Enterprise (ACE) Development
 * **Focus:** Designing the curriculum for courses like the two-day "**IBM App Connect Enterprise 12 Application Development I**".
 * **Lab Experience:** Modules cover developing and testing message flow applications, creating reusable subflows, and developing and testing **REST APIs**. Hands-on exercises utilize the **Flow Exerciser** and **Message Flow Debugger**.
-</details>
-
 ### IBM MQ & Cloud-Native
 * My curriculum design also extends to administering and securing enterprise messaging systems (**IBM MQ**) and creating labs for containerizing and managing integration assets within a Kubernetes environment (**IBM Red Hat OpenShift**).
 
