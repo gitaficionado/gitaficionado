@@ -10,10 +10,10 @@
   My work over the past year has been focused on **refining the presence and quality of my code and curriculum**. This includes:
 
  * **Instructional Design:** Creating hands-on labs and courseware that drive competitive advantage.
- * **Coding Proficiency:** Applying my expertise in **Python** to build a series of structured and scalable applications, most recently focusing on projects utilizing the **Django** framework.
-
----</summary>
+ * **Coding Proficiency:** Applying my expertise in **Python** to build a series of structured and scalable applications, most recently focusing on projects utilizing the **Django** framework.</summary>
 </details>
+---
+
 
 
 
