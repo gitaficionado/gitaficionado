@@ -2,8 +2,7 @@
 ### *Technical Curriculum Developer & IT Organizational Consultant with an emaphasis in Enterprise Middleware.*
 
 ---
-<details>
-<summary>##✨ My Focus: Actionable Learning & Technical Leadership</summary>
+## ✨ My Focus: Actionable Learning & Technical Leadership
 Welcome to my digital space. I specialize in complex enterprise integration and cloud-native technologies. My mission is to translate complex technical concepts into actionable, high-impact learning experiences that empower             clients and business partners.
 
 My work over the past year has been focused on **refining the presence and quality of my code and curriculum**. This includes:
@@ -13,8 +12,6 @@ My work over the past year has been focused on **refining the presence and quali
 </details>
 
 ---
-
-
 
 ## 📚 Core Curriculum & Technical Expertise
 
