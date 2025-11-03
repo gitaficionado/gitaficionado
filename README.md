@@ -41,7 +41,7 @@ I am a strong believer in contributing to the tech community and cultivating lea
 
 ### Mentorship & Portfolio
 * My passion for learning led me to use my technical writing skills to provide suggestions to undergraduate students from Stillman College to improve their LinkedIn profiles.
-  * My [recent projects site](https://gitaficionado.github.io/mercury/#projects), serves as a hub demonstrating my skills in technical writing, instructional design, and mentorship.
+  * My [recent projects site](https://gitaficionado.github.io/mercury), serves as a hub demonstrating my skills in technical writing, instructional design, and mentorship.
 
 ---
 
